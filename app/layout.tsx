@@ -1,7 +1,7 @@
 import "./globals.css";
 import type { ReactNode } from "react";
 
-export const metadata = {
+export const Metadata = {
   title: "FacilityFlow MVP",
   description: "Internal MVP"
 };
